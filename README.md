@@ -4,8 +4,8 @@ A collection of scripts to convert bookmarks from various sources to `bookmark.h
 
 ## Tools
 
-`pocketcsv2html`: Converts a Pocket CSV files to a `bookmark.html`.
+`pocketcsv2html`: Converts a Pocket CSV file to `bookmark.html`.
 
 Usage:
 
-	./pocketcsv2html part_000000.csv
+	./pocketcsv2html.py part_000000.csv
