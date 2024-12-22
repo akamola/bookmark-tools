@@ -1,0 +1,9 @@
+# User data
+
+*.csv
+*.html
+*.zip
+
+# IDE
+
+*.sublime-*
